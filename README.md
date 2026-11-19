@@ -22,3 +22,8 @@ A classic XDA / Fastboot & ADB Terminal User Interface (TUI) for inspecting, res
    cd Legacy-Android-Bench
    bash run.sh
    ```
+
+
+   SCRENSHOOTS:
+   <img width="641" height="411" alt="Screenshot_2026-11-19_20-18-49" src="https://github.com/user-attachments/assets/aa5241e7-dead-4ecc-b62e-dcde001e8441" />
+
