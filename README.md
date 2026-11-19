@@ -18,7 +18,7 @@ A classic XDA / Fastboot & ADB Terminal User Interface (TUI) for inspecting, res
 
 2. Clone and run with the automatic launcher:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/legacy-tty/Legacy-Android-Bench
    cd Legacy-Android-Bench
    bash run.sh
    ```
