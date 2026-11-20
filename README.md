@@ -1,6 +1,6 @@
 # Legacy Android & XDA Hardware Bench
 
-A classic XDA / Fastboot & ADB Terminal User Interface (TUI) for inspecting, rescuing, and tinkering with legacy Android devices on Linux.
+A classic XDA / Fastboot & ADB Terminal User Interface (TUI) for inspecting, rescuing, and tinkering with legacy Android devices on Linux and Windows.
 
 ## Features
 - **ADB & Fastboot Inspector:** Reads device codename, Android version, API level, build ID, root (`su`) status, bootloader state, and battery level.
